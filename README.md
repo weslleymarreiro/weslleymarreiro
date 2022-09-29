@@ -1,7 +1,7 @@
 ### Bem Vindo(a) ao meu Perfil!
 <div>
   <a href= "/https://github.com/weslleymarreiro/">
- <img height="180em" src="https:github-readme-stats.vercel.app/api?username=weslleymarreiro&show_icons=true&theme=dracula&include_all_commits=true&cout_private=true"/>
+ <img height="180em" src="https:github-readme-stats.vercel.app/api?username=weslleymarreiro&show_icons=true&theme=red&include_all_commits=true&cout_private=true"/>
   <img height="180em" src= "https:github-readme-stats.vercel.app/api/top-langs/username=weslleymarreiroinsta=compact&langs_cout=16&theme=dracula">
 </div>
   
@@ -15,3 +15,4 @@
   <img align="center" alt"Weslley-Python" height="30" width"40" src="githubusercontent.com/devicon/master/icons/python/python-original.svg" >
   <img align="center" alt"Weslley-Csharp" height="30" width"40" src="githubusercontent.com/devicon/master/icons/csharp/csharp-original.svg" >
 </div>
+  
